@@ -1,0 +1,7 @@
+host1: geek
+datacenter1: 
+  location: São Paulo
+  router: 42
+roles1:
+  - web
+  - dns
