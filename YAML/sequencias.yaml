@@ -1,0 +1,19 @@
+roles:
+  - webserver
+  - database
+
+# essa sintaxe não existe
+#- payload
+#  - bitcoin
+#  - 
+#  - ethereum
+
+
+# estilo bloco
+payload1:
+  - bitcoin
+  - ethereum
+
+# estilo flow
+payload2: [ bitcoin, ethereum ]
+
