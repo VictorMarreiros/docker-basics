@@ -18,4 +18,4 @@ datacenter:
 
 
 # separação de cada estrutura de configuração com '---'
-# a linguagem yaml entenderá que são duas configs diferentes
+# a linguagem yaml entenderá que são configs distintas
