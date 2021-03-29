@@ -5,3 +5,8 @@ datacenter1:
 roles1:
   - web
   - dns
+
+
+host2: "geek"
+datacenter2: { location: São Paulo, router: 42 }
+roles2: [ web, dns ]
