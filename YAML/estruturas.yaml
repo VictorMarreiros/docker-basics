@@ -1,0 +1,21 @@
+host: geek
+datacenter:
+  location: São Paulo
+  router: 42
+  switch: 34
+---
+host: udemy
+datacenter:
+  location: Colorado
+  router: 23
+  switch: 21
+---
+host: outro
+datacenter:
+  location: Somewhere
+  router: 4
+  switch: 2
+
+
+# separação de cada estrutura de configuração com '---'
+# a linguagem yaml entenderá que são duas configs diferentes
